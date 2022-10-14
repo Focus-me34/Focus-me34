@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=focus-me34&label=Profile%20views&color=0e75b6&style=flat" alt="focus-me34" /> </p>
 
-- 🔭 I’m currently working on [Tiger Hill](https://www.tigerhilladvisors.com/user_details/2229d74b57a5/edit)
+- 🔭 I’m currently working on [Tiger Hill](https://www.tigerhilladvisors.com)
 
 - 🌱 I’m currently working as a full time fullstack developer. I use Rails and React on a daily basis.
 
