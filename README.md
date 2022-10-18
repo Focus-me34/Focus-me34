@@ -30,5 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=focus-me34&show_icons=true&locale=en&layout=compact" alt="focus-me34" style="display: inline-block, background-color: #eee" width="100%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=focus-me34&show_icons=true&locale=en" alt="focus-me34" style="display: inline-block, background-color: #000" width="100%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=focus-me34&show_icons=true&locale=en" alt="focus-me34" style="display: inline-block, background-color: #000 !important" width="100%" /></p>
 
