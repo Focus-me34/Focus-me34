@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working as a full time fullstack developer. I use Rails and React on a daily basis.
 
-- ⌚️ I almost completed my first full year as a web developer.
+- ⌚️ 1+ year as fullstack web developer 🔥
 
 - 💬 Ask me about ** RAILS / OOP / REACT / UX / ENV: TEST - DEV **
 
