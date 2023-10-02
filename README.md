@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=focus-me34&label=Profile%20views&color=0e75b6&style=flat" alt="focus-me34" /> </p>
 
-- 🔭 I’m currently working on [Tiger Hill](https://www.tigerhilladvisors.com)
+- 🔭 I’m currently working at [Tiger Hill](https://www.tigerhilladvisors.com)
 
-- 🌱 I’m currently working as a full time fullstack developer. I use Rails and React on a daily basis.
+- 🌱 I’m currently working full time as a fullstack web developer. I use Rails API and React/NextJS on a daily basis.
 
 - ⌚️ 1+ year as fullstack web developer 🔥
 
-- 💬 Ask me about ** RAILS / OOP / REACT / UX / ENV: TEST - DEV **
+- 💬 Ask me about ** RAILS / REACT **
 
 - 📫 How to reach me **amin.uklondon@gmail.com**
 
